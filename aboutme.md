@@ -10,7 +10,8 @@ But I also have the following qualities:
 
 - I can make a great cup of coffee
 - I'm a helicopter mom to my puppy, [Hodu](https://www.instagram.com/hoduthepuppy)
-- I'm always down for a good camping trip
+- I enjoy camping and spending time in nature
+- Baking is my kind of therapy
 
 What else do you need?
 
