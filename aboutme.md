@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to be a friend with me
 ---
 
-My name is Hee Choi. You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. If you are interested in the scientist version of me, my CV can be found here. You can also take a look at my Research page.
+My name is Hee Choi. You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. If you are interested in the scientist version of me, my CV can be found [here](assets/data/hchoi_cv_ac.pdf). You can also take a look at my Research page.
 
 But I also have the following qualities:
 
