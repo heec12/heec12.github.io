@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want to be a friend with me
+permalink: /aboutme/
 ---
 
 My name is Hee Choi. You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. If you are interested in the scientist version of me, my CV can be found here. You can also take a look at my Research page.
