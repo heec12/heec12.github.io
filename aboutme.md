@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to be a friend with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Hee Choi. You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. If you are interested in the scientist version of me, my CV can be found here.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+But I also have the following qualities:
+
+- I can make a great cup of coffee
+- I'm a helicopter mom to my puppy, Hodu
+- I'm always down for a good camping trip
 
 What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
