@@ -3,13 +3,13 @@ layout: page
 title: About me
 ---
 
-My name is Hee Choi, and I am currently a Ph.D. candidate at Penn State University. You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. If you are interested in the scientist version of me, my CV can be found [here](assets/data/hchoi_cv_ac.pdf). You can also take a look at my [Research page](https://heec12.github.io/research/).
+My name is Hee Choi, and I am currently a Ph.D. candidate at Penn State University. You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. If you’re here for the academic side of things, feel free to check out my [CV](assets/data/hchoi_cv_ac.pdf) or head over to the [Research page](https://heec12.github.io/research/).
 
-But I also have the following qualities:
-- I can make a great cup of coffee
-- I'm a helicopter mom to my puppy, [Hodu](https://www.instagram.com/hoduthepuppy)
-- I enjoy camping and spending time in nature
-- Baking is my kind of therapy
+But beyond the science, I’m also someone who:
+- Can make a great cup of coffee
+- Is a very dedicated (read: helicopter) dog mom to my puppy, [Hodu](https://www.instagram.com/hoduthepuppy)
+- Finds peace in camping and quiet time outdoors
+- Uses baking as my kind of therapy
 
 What else do you need?
 
