@@ -8,7 +8,7 @@ subtitle: My past and ongoing projects
 
 Plate tectonics is one of the defining features that makes Earth unique among the rocky planets. It drives mountain building, volcanism, and the long-term cycling of materials between Earth’s surface and deep interior. At the heart of this system lies subduction, where one tectonic plate sinks beneath another. Despite its importance, we still don’t fully understand how or when subduction first began on Earth.
 
-<figure>
+<figure style="text-align: center;">
   <img src="assets/img/regime_diagram6copy.svg" alt="Regime diagram" width="300">
   <figcaption style="font-size: 0.9em;">
     Regime diagram illustrating whether including continents changes
