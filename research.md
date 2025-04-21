@@ -4,8 +4,8 @@ title: Research
 subtitle: My past and ongoing projects
 ---
 
-### Subduction initiation in early Earth
+### Early Earth Subduction
 Something
 
-### Deep Learning something
+### Deep Learning-Based Image Segmentation
 Something
