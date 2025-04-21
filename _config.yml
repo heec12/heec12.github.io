@@ -20,7 +20,7 @@ author: Hee Choi
 ###############################################
 
 navbar-links:
-  News: "aboutme"
+  News: "news"
   Research: "research"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
