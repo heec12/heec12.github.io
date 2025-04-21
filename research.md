@@ -9,11 +9,11 @@ subtitle: My past and ongoing projects
 Plate tectonics is one of the defining features that makes Earth unique among the rocky planets. It drives mountain building, volcanism, and the long-term cycling of materials between Earth’s surface and deep interior. At the heart of this system lies subduction, where one tectonic plate sinks beneath another. Despite its importance, we still don’t fully understand how or when subduction first began on Earth.
 
 <figure style="text-align: center;">
-  <img src="assets/img/regime_diagram6copy.svg" alt="Regime diagram" width="300">
-  <figcaption style="font-size: 0.9em;">
-    Regime diagram illustrating whether including continents changes
+  <img src="assets/img/regime_diagram6copy.png" alt="Regime diagram illustrating whether including continents changes
     the convection regime (stagnant lid or mobile lid) previously observed
-    without continents. Each symbol represents the behavior seen in models over
+    without continents." width="300">
+  <figcaption style="font-size: 0.9em;">
+    Each symbol represents the behavior seen in models over
     a range of continent thicknesses. Triangles represent conditions
     where models showed a switch from a stagnant lid without continents to a
     mobile lid with continents, for at least one modeled value of continent
