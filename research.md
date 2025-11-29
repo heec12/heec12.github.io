@@ -11,7 +11,7 @@ Plate tectonics is one of the defining features that makes Earth unique among th
 
 A central focus of my research is understanding how subduction began and evolved during Earth’s early history. I’m particularly curious about the conditions that allowed the first subduction zones to form, and whether primitive continents played a meaningful role in triggering them, or if other factors, like mantle temperature and weakening process, were more influential. I’m also interested in how subduction on the early Earth may have looked different from what we see today. Higher mantle temperatures, more vigorous convection, and differences in the composition and structure of early continents could all have led to subduction zones that were more transient, shallower, or lacked well-defined downwellings compared to those observed on modern Earth.
 
-![regime_diagram](/assets/img/regime_diagram6-1.png)
+![regime_diagram](/assets/img/regime_diagram6-1.png){: .mx-auto.d-block width="70%" }
 
 ### Deep Learning-Based Image Segmentation
 
