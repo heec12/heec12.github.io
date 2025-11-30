@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hee Choi
+title: About me
 ---
 
 
