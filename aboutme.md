@@ -1,5 +1,5 @@
 ---
-layout: aboutme
+layout: page
 title: Hee Choi
 ---
 
