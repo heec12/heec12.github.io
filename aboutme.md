@@ -1,0 +1,17 @@
+---
+layout: aboutme
+title: Hee Choi
+---
+
+My name is Hee Choi, and I am currently a postdoctoral fellow at Georgia Tech.
+You might know me as a geodynamicist interested in early Earth, mantle convection, and machine learning. 
+If you’re here for the academic side of things, <a href="assets/data/hchoi_cv_2.pdf">CV</a> or head over to the <a href="https://heec12.github.io/research/">Research page</a>.
+
+
+  <p>But beyond the science, I’m also someone who:</p>
+  <ul>
+    <li>Can make a great cup of coffee</li>
+    <li>Is a very dedicated (read: helicopter) dog mom to my puppy, <a href="https://www.instagram.com/hoduthepuppy">Hodu</a></li>
+    <li>Finds peace in camping and quiet time outdoors</li>
+    <li>Uses baking as my kind of therapy</li>
+  </ul>
