@@ -13,6 +13,10 @@ A central focus of my research is understanding how subduction began and evolved
 
 ![regime_diagram](/assets/img/regime_diagram6-1.png){: .mx-auto.d-block style="max-width:50%;" }
 
+### Fluids, Melts, and the Formation of Early Continents
+
+I am also interested in how fluids and melts produced in subduction zones may have contributed to the formation of Earth’s earliest continents. In particular, I use numerical models of subduction with fluid migration to explore how water released from the downgoing slab could generate buoyant, felsic crust (such as TTG-like compositions) in the overlying plate. By linking slab dynamics, fluid pathways, and melt production in a unified framework, this work aims to better understand how subduction-related processes may have helped build and stabilize the first long-lived continental nuclei on early Earth.
+
 ### Deep Learning-Based Image Segmentation
 
 In addition to studying the geodynamics of early Earth, I’m also interested in developing computational tools that can help analyze complex geophysical models more efficiently. One area I’ve focused on is using deep learning (specifically image segmentation techniques) to detect subduction zones in numerical simulations of mantle convection. I trained a type of neural network called a Fully Convolutional Network (FCN) to recognize subduction zones directly from model output images. FCN learns to identify spatial patterns that represent subduction by analyzing labeled examples. Once trained, it can automatically segment new images to highlight subduction zones, even in models with complex or evolving dynamics. This method goes beyond traditional techniques that rely on fixed thresholds (like temperature or velocity gradients), offering a more flexible and accurate way to track where subduction occurs.
