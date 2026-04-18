@@ -7,7 +7,7 @@ My name is Hee Choi, and I am currently a postdoctoral fellow at Georgia Tech in
 
 I am a geodynamicist interested in early Earth. I am also interested in how advances in AI and computational tools can benefit the geoscience community, including developing methods for automated analysis of large-scale numerical simulations.
 
-If you're here for the academic side of things, see my [CV](https://heec12.github.io/assets/data/hchoi_cv.pdf) or head over to the [Research page](https://heec12.github.io/research/).
+If you're here for the academic side of things, see my [CV](https://heec12.github.io/assets/data/hchoi_cv_ (3).pdf) or head over to the [Research page](https://heec12.github.io/research/).
 
 ---
 
