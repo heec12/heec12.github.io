@@ -39,9 +39,9 @@ To capture these dynamics realistically, I employ two-phase flow models that exp
 
 ### Deep Learning-Based Subduction Zone Detection
 
-Numerical simulations of mantle convection generate large volumes of complex image data, and identifying subduction zones within them — especially in models with evolving or transient dynamics — can be time-consuming and difficult to automate with traditional threshold-based methods. To address this, I developed a deep learning toolkit that uses a Fully Convolutional Network (FCN) to detect and track subduction zones directly from model output images.
+Numerical simulations of mantle convection generate large volumes of complex image data, and identifying subduction zones within them can be time-consuming and difficult to automate with traditional threshold-based methods. To address this, I developed a deep learning toolkit that uses a Fully Convolutional Network (FCN) to detect and track subduction zones directly from model output images.
 
-The FCN is trained on labeled examples to recognize the spatial patterns associated with subduction, and once trained, it can automatically segment new model outputs to identify subduction zones — even in models with irregular or short-lived features. Training labels are generated efficiently using Meta's Segment Anything Model (SAM), reducing the manual labeling burden. The result is a scalable, flexible framework that performs well across a range of model configurations and dynamic regimes.
+The FCN is trained on labeled examples to recognize the spatial patterns associated with subduction, and once trained, it can automatically segment new model outputs to identify subduction zones, even in models with irregular or short-lived features. The result is a scalable, flexible framework that performs well across a range of model configurations and dynamic regimes.
 
 <div style="text-align: center;">
   <img src="/assets/img/jgrb70235-fig-0002-m.jpg" width="80%" alt="FCN subduction zone detection">
@@ -49,7 +49,7 @@ The FCN is trained on labeled examples to recognize the spatial patterns associa
   <em>Comparison of FCN-predicted subduction zone masks (top) against SAM-generated ground truth labels (middle) and the corresponding RGB model images (bottom), for two examples with different subduction geometries. The FCN closely reproduces the ground truth in both cases. From Choi and Foley (2026)</em>
 </div>
 
-Beyond subduction detection, this framework is designed to generalize (e.g., mantle plumes in convection simulations, mineral phases in microscopy images, impact craters in planetary surface data, and other geoscientific pattern recognition tasks)
+Beyond subduction detection, this framework is designed to generalize (e.g., mantle plumes in convection simulations, mineral phases in microscopy images, impact craters in planetary surface data, and other geoscientific pattern recognition tasks). Please contact me if you're interested in collaboration!
 
 The code is openly available:
 
