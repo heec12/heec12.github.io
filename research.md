@@ -3,9 +3,6 @@ layout: page
 title: Research
 ---
 
-My past and ongoing projects
-
----
 
 ### Early Earth Dynamics
 
