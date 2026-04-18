@@ -1,24 +1,47 @@
 ---
 layout: page
 title: Research
-subtitle: My past and ongoing projects
 ---
 
-### Early Earth Subduction
+My past and ongoing projects
 
-Plate tectonics is one of the defining features that makes Earth unique among the rocky planets. It drives mountain building, volcanism, and the long-term cycling of materials between Earth’s surface and deep interior. At the heart of this system lies subduction, where one tectonic plate sinks beneath another. Despite its importance, we still don’t fully understand how or when subduction first began on Earth.
+---
 
+### Early Earth Dynamics
 
-A central focus of my research is understanding how subduction began and evolved during Earth’s early history. I’m particularly curious about the conditions that allowed the first subduction zones to form, and whether primitive continents played a meaningful role in triggering them, or if other factors, like mantle temperature and weakening process, were more influential. I’m also interested in how subduction on the early Earth may have looked different from what we see today. Higher mantle temperatures, more vigorous convection, and differences in the composition and structure of early continents could all have led to subduction zones that were more transient, shallower, or lacked well-defined downwellings compared to those observed on modern Earth.
+Plate tectonics is one of the defining features that makes Earth unique among the rocky planets. It drives mountain building, volcanism, and the long-term cycling of materials between Earth's surface and deep interior. At the heart of this system lies subduction, where one tectonic plate sinks beneath another. Despite its importance, we still don't fully understand how or when subduction first began — or what conditions allowed the first stable continents to emerge.
 
-![regime_diagram](/assets/img/regime_diagram6-1.png){: .mx-auto.d-block style="max-width:50%;" }
+A central focus of my research is understanding how subduction initiated and evolved during Earth's early history. I am particularly interested in what role, if any, the earliest continental crust played in triggering subduction — and what other factors, such as elevated mantle temperatures and weakening mechanisms, may have been more decisive. My work suggests that continents alone are not sufficient to initiate subduction, which raises deeper questions about what combination of conditions made it possible on the early Earth.
 
-### Fluids, Melts, and the Formation of Early Continents
+I am also interested in how early subduction differed from what we observe today. Higher mantle temperatures, more vigorous convection, and differences in the composition and structure of early lithosphere could have produced subduction zones that were more transient, shallower, or structurally distinct from their modern counterparts. Understanding these differences is key to reconstructing the tectonic environment in which the first continents formed and stabilized.
 
-I am also interested in how fluids and melts produced in subduction zones may have contributed to the formation of Earth’s earliest continents. In particular, I use numerical models of subduction with fluid migration to explore how water released from the downgoing slab could generate buoyant, felsic crust (such as TTG-like compositions) in the overlying plate. By linking slab dynamics, fluid pathways, and melt production in a unified framework, this work aims to better understand how subduction-related processes may have helped build and stabilize the first long-lived continental nuclei on early Earth.
+![Subduction initiation regime diagram](assets/img/jgrb56955-fig-0009-m.jpg)
+*Regime diagram showing the conditions required for continent-induced subduction initiation, as a function of continental thickness and viscosity jump (μ_jump). The solid line represents results from this study; the dashed line shows the stress threshold implied by Rolf and Tackley (2011). Subduction initiation is only possible to the right of the boundary, requiring sufficiently thick and rheologically distinct continental lithosphere.*
 
-### Deep Learning-Based Image Segmentation
+---
 
-In addition to studying the geodynamics of early Earth, I’m also interested in developing computational tools that can help analyze complex geophysical models more efficiently. One area I’ve focused on is using deep learning (specifically image segmentation techniques) to detect subduction zones in numerical simulations of mantle convection. I trained a type of neural network called a Fully Convolutional Network (FCN) to recognize subduction zones directly from model output images. FCN learns to identify spatial patterns that represent subduction by analyzing labeled examples. Once trained, it can automatically segment new images to highlight subduction zones, even in models with complex or evolving dynamics. This method goes beyond traditional techniques that rely on fixed thresholds (like temperature or velocity gradients), offering a more flexible and accurate way to track where subduction occurs.
+### Fluid Migration and Continental Crust Formation
 
-By integrating geodynamic modeling with machine learning, this approach offers a scalable and adaptable way to analyze complex geophysical data. Looking ahead, I envision this tool being used not only to identify subduction zones in numerical models but also to detect a wide range of features (e.g., mantle plumes in mantle convection simulations, mineral phases in microscopy images, impact craters in planetary surface data, etc.). Its ability to learn and recognize patterns directly from images makes it a versatile framework for interpreting diverse geoscientific datasets.
+Some of the oldest rocks on Earth — preserved from as far back as 4 billion years ago — tell us that continental crust existed very early in Earth's history. Yet the exact mechanisms responsible for producing this crust remain poorly understood. I use numerical models of subduction to investigate how fluids released from a downgoing slab migrate through the mantle wedge and contribute to the generation of buoyant, felsic melts that may have built the earliest continents.
+
+To capture these dynamics realistically, I employ two-phase flow models that explicitly couple solid mantle flow with fluid migration. This approach goes beyond solid-only models, which cannot represent the feedback between dehydration, fluid pathways, and melt production. By tracking porosity fields and fluid fluxes within a subduction zone framework, I aim to link slab dynamics, fluid transport, and TTG-like melt generation in a unified model — and to explore how those processes may have varied under early Earth conditions.
+
+![Porosity field snapshots from two-phase flow subduction models](assets/img/porosity_diff2.png)
+*Porosity field (φ) from subduction models with mantle potential temperatures of T₀ = 1673 K (left) and T₀ = 1900 K (right) at t ≈ 3,000 years. Overlaid isotherms highlight the slab geometry and mantle wedge structure. Higher mantle temperatures produce more focused fluid migration near the slab interface.*
+
+---
+
+### Deep Learning-Based Subduction Zone Detection
+
+Numerical simulations of mantle convection generate large volumes of complex image data, and identifying subduction zones within them — especially in models with evolving or transient dynamics — can be time-consuming and difficult to automate with traditional threshold-based methods. To address this, I developed a deep learning toolkit that uses a Fully Convolutional Network (FCN) to detect and track subduction zones directly from model output images.
+
+The FCN is trained on labeled examples to recognize the spatial patterns associated with subduction, and once trained, it can automatically segment new model outputs to identify subduction zones — even in models with irregular or short-lived features. Training labels are generated efficiently using Meta's Segment Anything Model (SAM), reducing the manual labeling burden. The result is a scalable, flexible framework that performs well across a range of model configurations and dynamic regimes.
+
+![FCN subduction zone detection](assets/img/jgrb70235-fig-0002-m.jpg)
+*Comparison of FCN-predicted subduction zone masks (top) against SAM-generated ground truth labels (middle) and the corresponding RGB model images (bottom), for two examples with different subduction geometries. The FCN closely reproduces the ground truth in both cases.*
+
+Beyond subduction detection, this framework is designed to generalize — to mantle plumes in convection simulations, mineral phases in microscopy images, impact craters in planetary surface data, and other geoscientific pattern recognition tasks.
+
+The code is openly available:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17518757.svg)](https://doi.org/10.5281/zenodo.17518757) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-heec12%2FSZ--detection-181717?logo=github)](https://github.com/heec12/SZ-detection)
