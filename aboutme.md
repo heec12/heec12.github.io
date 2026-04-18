@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-My name is Hee Choi, and I am currently a postdoctoral fellow at Georgia Tech in [Dr. Shi Joyce Sim's research group](https://simlab.eas.gatech.edu/).
+My name is Hee Choi, and I am currently a postdoctoral fellow at Georgia Tech working with [Dr. Shi Joyce Sim](https://joycesim.github.io/).
 
 I am a geodynamicist interested in early Earth. I am also interested in how advances in AI and computational tools can benefit the geoscience community, including developing methods for automated analysis of large-scale numerical simulations and defining the compositional space using Bayesian Inference.
 
