@@ -22,6 +22,7 @@ author: Hee Choi
 navbar-links:
   About Me: "aboutme"
   Research: "research"
+  CV: "assets/data/hchoi_cv.pdf"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -51,10 +52,11 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hxc5400@psu.edu"
+  email: "hchoi342@gatech.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: heec12
+  ORCID: 0000-0003-0588-7301
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
@@ -75,7 +77,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-ORCID: 0000-0003-0588-7301
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
