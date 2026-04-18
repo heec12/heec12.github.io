@@ -22,7 +22,7 @@ author: Hee Choi
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  CV: "aassets/data/hchoi_cv_(3).pdf"
+  CV: "assets/data/hchoi_cv_(3).pdf"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
