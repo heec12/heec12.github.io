@@ -15,7 +15,8 @@ A central focus of my research is understanding how subduction initiated and evo
 
 I am also interested in how early subduction differed from what we observe today. Higher mantle temperatures, more vigorous convection, and differences in the composition and structure of early lithosphere could have produced subduction zones that were more transient, shallower, or structurally distinct from their modern counterparts. Understanding these differences is key to reconstructing the tectonic environment in which the first continents formed and stabilized.
 
-<img src="/assets/img/jgrb56955-fig-0009-m.jpg" width="40%" alt="Subduction initiation regime diagram">
+<img src="/assets/img/jgrb56955-fig-0009-m.jpg" width="50%" alt="Subduction initiation regime diagram">
+<br>
 *Regime diagram showing the conditions required for continent-induced subduction initiation, as a function of continental thickness and viscosity jump (μ_jump). Subduction initiation is only possible to the right of the boundary, requiring sufficiently thick and rheologically distinct continental lithosphere. From Choi and Foley (2024)*
 
 ---
@@ -27,6 +28,7 @@ Some of the oldest rocks on Earth tell us that continental crust existed very ea
 To capture these dynamics realistically, I employ two-phase flow models that explicitly couple solid mantle flow with fluid migration. This approach goes beyond solid-only models, which cannot represent the feedback between dehydration, fluid pathways, and melt production. By tracking porosity fields and fluid fluxes within a subduction zone framework, I aim to link slab dynamics, fluid transport, and TTG-like melt generation in a unified model — and to explore how those processes may have varied under early Earth conditions.
 
 <img src="/assets/img/porosity_diff2.png" width="80%" alt="Porosity field snapshots from two-phase flow subduction models">
+<br>
 *Porosity field (φ) from subduction models with mantle potential temperatures of T₀ = 1673 K (left) and T₀ = 1900 K (right) at t ≈ 3,000 years. Overlaid isotherms highlight the slab geometry and mantle wedge structure. Higher mantle temperatures produce more focused fluid migration near the slab interface.*
 
 ---
@@ -38,6 +40,7 @@ Numerical simulations of mantle convection generate large volumes of complex ima
 The FCN is trained on labeled examples to recognize the spatial patterns associated with subduction, and once trained, it can automatically segment new model outputs to identify subduction zones — even in models with irregular or short-lived features. Training labels are generated efficiently using Meta's Segment Anything Model (SAM), reducing the manual labeling burden. The result is a scalable, flexible framework that performs well across a range of model configurations and dynamic regimes.
 
 <img src="/assets/img/jgrb70235-fig-0002-m.jpg" width="80%" alt="FCN subduction zone detection">
+<br>
 *Comparison of FCN-predicted subduction zone masks (top) against SAM-generated ground truth labels (middle) and the corresponding RGB model images (bottom), for two examples with different subduction geometries. The FCN closely reproduces the ground truth in both cases. From Choi and Foley (2026)*
 
 Beyond subduction detection, this framework is designed to generalize (e.g., mantle plumes in convection simulations, mineral phases in microscopy images, impact craters in planetary surface data, and other geoscientific pattern recognition tasks)
