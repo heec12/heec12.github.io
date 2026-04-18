@@ -15,7 +15,7 @@ A central focus of my research is understanding how subduction initiated and evo
 
 I am also interested in how early subduction differed from what we observe today. Higher mantle temperatures, more vigorous convection, and differences in the composition and structure of early lithosphere could have produced subduction zones that were more transient, shallower, or structurally distinct from their modern counterparts. Understanding these differences is key to reconstructing the tectonic environment in which the first continents formed and stabilized.
 
-<img src="assets/img/jgrb56955-fig-0009-m.jpg" width="30%" alt="Subduction initiation regime diagram">
+<img src="assets/img/jgrb56955-fig-0009-m.jpg" width="40%" alt="Subduction initiation regime diagram">
 *Regime diagram showing the conditions required for continent-induced subduction initiation, as a function of continental thickness and viscosity jump (μ_jump). Subduction initiation is only possible to the right of the boundary, requiring sufficiently thick and rheologically distinct continental lithosphere. From Choi and Foley (2024)*
 
 ---
