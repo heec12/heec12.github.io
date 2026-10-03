@@ -4,7 +4,7 @@ title: About me
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/img/profile_photo.png" alt="Hee Choi" width="65%">
+  <img src="/assets/img/profile_photos.png" alt="Hee Choi" width="65%">
 </div>
 <br>
 
