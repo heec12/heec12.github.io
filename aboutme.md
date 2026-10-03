@@ -4,14 +4,14 @@ title: About me
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/img/profile_photos.png" alt="Hee Choi" width="65%">
+  <img src="/assets/img/profile_photos.png" alt="Hee Choi" width="99%">
 </div>
 <br>
 
 
 My name is Hee Choi, and I am currently a postdoctoral fellow at Georgia Tech working with [Dr. Shi Joyce Sim](https://joycesim.github.io/).
 
-I am a geodynamicist interested in early Earth, working at the intersection of numerical modeling, thermodynamics, and machine learning. I couple geodynamic models with phase-equilibrium modeling to estimate how much water subducting crust carried in the Archean, and I develop deep learning methods for automated analysis of large-scale numerical simulations.
+I am a geodynamicist interested in early Earth, working at the intersection of numerical modeling, thermodynamics, and machine learning. I couple geodynamic models with phase-equilibrium modeling, and I also develop deep learning methods for numerical simulations.
 
 If you're here for the academic side of things, see my [CV](https://heec12.github.io/assets/data/hchoi_cv_3.pdf) or head over to the [Research page](https://heec12.github.io/research/).
 
