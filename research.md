@@ -16,7 +16,7 @@ My past work using numerical models of subduction initiation shows that continen
 <div style="text-align: center;">
   <img src="/assets/img/jgrb56955-fig-0009-m.jpg" width="50%" alt="Subduction initiation regime diagram">
   <br>
-  <em>Regime diagram showing the conditions required for continent-induced subduction initiation, as a function of continental thickness and viscosity jump (μ_jump). Subduction initiation is only possible to the right of the boundary, requiring sufficiently thick and rheologically distinct continental lithosphere. From Choi and Foley (2024)</em>
+  <em style="font-size: 0.85em;">Regime diagram showing the conditions required for continent-induced subduction initiation, as a function of continental thickness and viscosity jump (μ_jump). Subduction initiation is only possible to the right of the boundary, requiring sufficiently thick and rheologically distinct continental lithosphere. From Choi and Foley (2024)</em>
 </div>
 
 ---
@@ -30,7 +30,7 @@ One way to probe ancient subduction is to follow the water. Subducting slabs car
 <div style="text-align: center;">
   <img src="/assets/img/pt_maps_webpage.png" width="100%" alt="Bound H2O in subducting Archean oceanic crust">
   <br>
-  <em>Bound water in subducting Archean oceanic crust, from thermodynamic modeling combined with slab pressure-temperature paths from a geodynamic model. Left and middle: bound H₂O in the upper and lower crust as a function of pressure and temperature, with slab paths in red, for lower-MgO (top) and higher-MgO (bottom) crust. Right: bound H₂O along the slab. Higher-MgO crust carries more water and releases more of it between 1 and 5 GPa.</em>
+  <em style="font-size: 0.85em;">Bound water in subducting Archean oceanic crust, from thermodynamic modeling combined with slab pressure-temperature paths from a geodynamic model. Left and middle: bound H₂O in the upper and lower crust as a function of pressure and temperature, with slab paths in red, for lower-MgO (top) and higher-MgO (bottom) crust. Right: bound H₂O along the slab. Higher-MgO crust carries more water and releases more of it between 1 and 5 GPa.</em>
 </div>
 
 ---
@@ -44,7 +44,7 @@ To capture these dynamics realistically, I employ two-phase flow models that exp
 <div style="text-align: center;">
   <img src="/assets/img/porosity_diff2.png" width="80%" alt="Porosity field snapshots from two-phase flow subduction models">
   <br>
-  <em>Porosity field (φ) from subduction models with mantle potential temperatures of T₀ = 1673 K (left) and T₀ = 1900 K (right) at t ≈ 3,000 years. Overlaid isotherms highlight the slab geometry and mantle wedge structure. Higher mantle temperatures produce more focused fluid migration near the slab interface.</em>
+  <em style="font-size: 0.85em;">Porosity field (φ) from subduction models with mantle potential temperatures of T₀ = 1673 K (left) and T₀ = 1900 K (right) at t ≈ 3,000 years. Overlaid isotherms highlight the slab geometry and mantle wedge structure. Higher mantle temperatures produce more focused fluid migration near the slab interface.</em>
 </div>
 
 ---
@@ -58,7 +58,7 @@ Once trained on labeled examples, the FCN segments new model outputs automatical
 <div style="text-align: center;">
   <img src="/assets/img/jgrb70235-fig-0002-m.jpg" width="80%" alt="FCN subduction zone detection">
   <br>
-  <em>Comparison of FCN-predicted subduction zone masks (top) against SAM-generated ground truth labels (middle) and the corresponding RGB model images (bottom), for two examples with different subduction geometries. The FCN closely reproduces the ground truth in both cases. From Choi and Foley (2026)</em>
+  <em style="font-size: 0.85em;">Comparison of FCN-predicted subduction zone masks (top) against SAM-generated ground truth labels (middle) and the corresponding RGB model images (bottom), for two examples with different subduction geometries. The FCN closely reproduces the ground truth in both cases. From Choi and Foley (2026)</em>
 </div>
 
 Beyond subduction detection, this method is designed to generalize (e.g., mantle plumes in convection simulations, mineral phases in microscopy images, impact craters in planetary surface data, and other geoscientific pattern recognition tasks). Please contact me if you're interested in collaboration!
