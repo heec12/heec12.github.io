@@ -22,4 +22,4 @@ But beyond the science, I'm also someone who:
 - Can make a great cup of coffee
 - Is a very dedicated (read: helicopter) dog mom to my puppy, [Hodu](https://www.instagram.com/hoduthepuppy)
 - Finds peace outdoors, whether camping in the woods or spending quiet time at the beach
-- Has taken up running as my new way to clear my head
+- Has taken up running as my new way to clear my head (Ask me about my latest 5K PR!)
