@@ -9,7 +9,7 @@ title: About me
 <br>
 
 
-My name is Hee Choi, and I am currently a postdoctoral fellow at Georgia Tech working with [Dr. Shi Joyce Sim](https://joycesim.github.io/).
+My name is Hee Choi, and I am currently a postdoctoral researcher at Scripps Institution of Oceanography, UCSD working with [Dr. Shi Joyce Sim](https://joycesim.github.io/).
 
 I am a geodynamicist interested in early Earth, working at the intersection of numerical modeling, thermodynamics, and machine learning. I couple geodynamic models with phase-equilibrium modeling, and I also develop deep learning methods for numerical simulations.
 
